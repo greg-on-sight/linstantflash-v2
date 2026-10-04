@@ -1,20 +1,11 @@
-# L’Instant Flash V2 — Octobre 2026
+# L’Instant Flash — Octobre 2026 — version publication
 
-Prototype publiable du web magazine mobile-first.
+Contenu finalisé pour GitHub Pages.
 
-## Installation GitHub Pages
-Déposer `index.html`, `style.css`, `script.js` et le dossier `assets/` à la racine du dépôt.
+À publier à la racine du dépôt :
+- index.html
+- style.css
+- script.js
+- dossier assets/
 
-## Image de couverture
-Ajouter l’image Dope Lake validée sous :
-`assets/dope-lake-cover.png`
-
-Sans cette image, un fond de secours reste affiché.
-
-## Contenus encore à finaliser
-- Sources/liens des actualités et de Dope Lake
-- Mise à jour de la situation de DNA juste avant publication
-- Bloc scientifique complet de « La Méthode »
-- Portrait de Cassandre
-- Date/tarif/inscription Ninja Warrior
-- Agenda complémentaire
+Le bouton 👍 fonctionne actuellement sur l’appareil du lecteur. Pour obtenir un taux d’appréciation global, il faudra ensuite connecter un service de collecte partagé.
